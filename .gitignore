@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+*.log
+.claude/settings.local.json
+__pycache__/
+.venv/
+.DS_Store
+
+# Generated art (candidates, single views, cost logs) is too large for the repo; it stays local.
+work/*/candidates/
+work/*/views/
+**/log.jsonl
+
+# The F40 reference photos have no recorded source, so they are not published.
+work/07-f40/refs/
+
+# Print-resolution posters (8-9 MB each); the repo carries the JPEG previews next to this folder.
+posters/print/

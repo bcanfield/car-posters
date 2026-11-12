@@ -1,0 +1,181 @@
+{
+  "_note": "Spec values must match the table in specs.md; compose.py checks this. top_speed drives the 0-300 bar. refs_dir holds side/front/rear/front34.jpg reference photos (credits.json lists the sources; the F40's are not in the repo). art lists the generated images compose.py uses: hero is a whole-poster candidate from generate.py (hero_from_poster: the hero band is cut from it) or a side view; front and rear come from generate.py --view. title is the make, set as the headline; maker_line is 'MODEL · YEAR' below it.",
+  "cars": [
+    {
+      "slug": "01-z06",
+      "number": "01",
+      "title": "CHEVROLET",
+      "maker_line": "CORVETTE Z06 · 2023",
+      "car": "2023 Chevrolet Corvette Z06 coupe (C8, mid-engine)",
+      "colors": "Accelerate Yellow Metallic paint (a bright, slightly greenish yellow) with black lower trim",
+      "details": "mid-engine wide body, very large black side air intakes in front of the rear wheels behind the doors, Z06 front fascia with big lower intakes, angular slim headlights, quad centre exhaust tips, low rear spoiler, black multi-spoke wheels",
+      "specs": {
+        "engine": "5.5L FLAT-PLANE V8",
+        "power": "670 HP",
+        "zero_sixty": "2.6 S",
+        "top_speed": "189 MPH"
+      },
+      "top_speed": 189,
+      "bar_color": "#E9D21F",
+      "refs_dir": "work/01-z06/refs",
+      "art": {
+        "hero": "work/01-z06/candidates/01-z06-a03.png",
+        "hero_from_poster": true,
+        "front": "work/01-z06/views/01-z06-front-a01.png",
+        "rear": "work/01-z06/views/01-z06-rear-a01.png"
+      },
+      "logo_final": "logos/corvette.png"
+    },
+    {
+      "slug": "02-darkhorse",
+      "number": "02",
+      "title": "FORD",
+      "maker_line": "MUSTANG DARK HORSE · 2024",
+      "car": "2024 Ford Mustang Dark Horse coupe (S650)",
+      "colors": "Blue Ember Metallic paint (a deep steel blue) with dark grey wheels and blue brake calipers",
+      "details": "long hood with vents, darkened trapezoid grille, slim dark headlights, three vertical red light bars in each taillight, fixed rear wing, quad exhaust; plain production car with no roof light bar, no stickers and no pace-car equipment",
+      "specs": {
+        "engine": "5.0L V8",
+        "power": "500 HP",
+        "zero_sixty": "4.1 S",
+        "top_speed": "163 MPH"
+      },
+      "top_speed": 163,
+      "bar_color": "#3F5B78",
+      "refs_dir": "work/02-darkhorse/refs",
+      "art": {
+        "hero": "work/02-darkhorse/candidates/02-darkhorse-a03.png",
+        "hero_from_poster": true,
+        "front": "work/02-darkhorse/views/02-darkhorse-front-a01.png",
+        "rear": "work/02-darkhorse/views/02-darkhorse-rear-a01.png"
+      },
+      "logo_final": "logos/mustang.png"
+    },
+    {
+      "slug": "03-charger",
+      "number": "03",
+      "title": "DODGE",
+      "maker_line": "CHARGER SRT HELLCAT · 2023",
+      "car": "2023 Dodge Charger SRT Hellcat Widebody four-door sedan (LD)",
+      "colors": "Plum Crazy Pearl purple paint with black wheels and black trim",
+      "details": "four doors, widebody fender flares, power-bulge hood with a scoop, wide black grille, a single continuous red LED 'racetrack' tail light loop running across the whole rear, small rear lip spoiler, dual exhaust tips",
+      "specs": {
+        "engine": "6.2L SUPERCHARGED V8",
+        "power": "717 HP",
+        "zero_sixty": "3.6 S",
+        "top_speed": "196 MPH"
+      },
+      "top_speed": 196,
+      "bar_color": "#5E2D86",
+      "refs_dir": "work/03-charger/refs",
+      "art": {
+        "hero": "work/03-charger/candidates/03-charger-a02.png",
+        "hero_from_poster": true,
+        "front": "work/03-charger/views/03-charger-front-a01.png",
+        "rear": "work/03-charger/views/03-charger-rear-a01.png"
+      },
+      "logo_final": "logos/hellcat.png"
+    },
+    {
+      "slug": "04-911turbos",
+      "number": "04",
+      "title": "PORSCHE",
+      "maker_line": "911 TURBO S · 2021",
+      "car": "2021 Porsche 911 Turbo S coupe (992)",
+      "colors": "Carrara White Metallic paint with dark grey wheels and black trim",
+      "details": "classic 911 fastback shape, round LED headlights with dark surrounds, wide rear haunches with air intakes ahead of the rear wheels, one thin red light bar running the full width of the rear, deployable rear wing with vertical louvres on the engine lid, two large rectangular exhaust tips",
+      "specs": {
+        "engine": "3.7L TWIN-TURBO FLAT-6",
+        "power": "640 HP",
+        "zero_sixty": "2.6 S",
+        "top_speed": "205 MPH"
+      },
+      "top_speed": 205,
+      "bar_color": "#E3E5E8",
+      "refs_dir": "work/04-911turbos/refs",
+      "art": {
+        "hero": "work/04-911turbos/candidates/04-911turbos-a01.png",
+        "hero_from_poster": true,
+        "front": "work/04-911turbos/views/04-911turbos-front-a01.png",
+        "rear": "work/04-911turbos/views/04-911turbos-rear-a01.png"
+      },
+      "logo_final": "logos/porsche.png",
+      "bar_fill_outline": true
+    },
+    {
+      "slug": "05-murcielago",
+      "number": "05",
+      "title": "LAMBORGHINI",
+      "maker_line": "MURCIÉLAGO LP640 · 2006",
+      "car": "2006 Lamborghini Murciélago LP640 coupe",
+      "colors": "Verde Ithaca pearl lime-green paint with black wheels",
+      "details": "very low wedge V12 supercar, doors closed, angular headlights, big black air intakes in the front bumper, a large asymmetric side air inlet low on the flank behind the door, small movable air scoops on the shoulders above the rear wheels, louvred engine cover, single large oval centre exhaust, LP640 five-spoke wheels",
+      "specs": {
+        "engine": "6.5L V12",
+        "power": "631 HP",
+        "zero_sixty": "3.4 S",
+        "top_speed": "211 MPH"
+      },
+      "top_speed": 211,
+      "bar_color": "#6DB33F",
+      "refs_dir": "work/05-murcielago/refs",
+      "art": {
+        "hero": "work/05-murcielago/candidates/05-murcielago-a01.png",
+        "hero_from_poster": true,
+        "front": "work/05-murcielago/views/05-murcielago-front-a01.png",
+        "rear": "work/05-murcielago/views/05-murcielago-rear-a01.png"
+      },
+      "logo_final": "logos/lamborghini.png"
+    },
+    {
+      "slug": "06-296gtb",
+      "number": "06",
+      "title": "FERRARI",
+      "maker_line": "296 GTB · 2022",
+      "car": "2022 Ferrari 296 GTB",
+      "colors": "Rosso Corsa red paint with silver wheels and black lower trim",
+      "details": "compact mid-engine berlinetta, short nose, teardrop headlights with a black 'tear' line, flying buttresses at the rear, a black band across the rear holding slim tail lights, one large oval exhaust tailpipe in the centre of the rear high up between the tail lights, five twin-spoke wheels",
+      "specs": {
+        "engine": "2.9L V6 HYBRID",
+        "power": "819 HP",
+        "zero_sixty": "2.9 S",
+        "top_speed": "205 MPH"
+      },
+      "top_speed": 205,
+      "bar_color": "#C1121F",
+      "refs_dir": "work/06-296gtb/refs",
+      "art": {
+        "hero": "work/06-296gtb/candidates/06-296gtb-a01.png",
+        "hero_from_poster": true,
+        "front": "work/06-296gtb/views/06-296gtb-front-a01.png",
+        "rear": "work/06-296gtb/views/06-296gtb-rear-a01.png"
+      },
+      "logo_final": "logos/ferrari.png"
+    },
+    {
+      "slug": "07-f40",
+      "number": "07",
+      "title": "FERRARI",
+      "maker_line": "F40 · 1987",
+      "car": "1987 Ferrari F40",
+      "colors": "Rosso Corsa red paint",
+      "details": "louvered Lexan rear window over the engine bay, NACA ducts in the doors and sills, fixed rear wing mounted on the rear fenders, 5-spoke Speedline centre-lock wheels",
+      "specs": {
+        "engine": "2.9L TWIN-TURBO V8",
+        "power": "471 HP",
+        "zero_sixty": "4.2 S",
+        "top_speed": "201 MPH"
+      },
+      "top_speed": 201,
+      "bar_color": "#B3080A",
+      "refs_dir": "work/07-f40/refs",
+      "bonus": true,
+      "logo_final": "logos/ferrari.png",
+      "art": {
+        "hero": "work/07-f40/views/07-f40-side-a01.png",
+        "front": "work/07-f40/views/07-f40-front-a01.png",
+        "rear": "work/07-f40/views/07-f40-rear-a01.png"
+      }
+    }
+  ]
+}
