@@ -4,7 +4,7 @@ A simple Claude Code setup to generate professional car posters for my son's roo
 
 Six cars with silhouettes he can learn to recognise, plus a bonus Ferrari F40. Each poster has a side profile, front and rear views, the maker's logo, a spec strip and a 0-300 mph top speed bar.
 
-The repo carries 1800x2400 JPEG previews. The scripts produce the print files: 3600x4800 PNGs (12x16 in at 300 dpi) in `posters/print/`, which is gitignored because each one is 8-9 MB.
+The repo carries 1800x2400 JPEG previews. The scripts produce the print files: 3600x4800 PNGs (12x16 in at 300 dpi) in `posters/print/`, which is gitignored because each one is 8-9 MB. `uv run compose.py --16x20 <slug>` lays the same grid out at 4:5 instead (3840x4800, 16x20 in at 240 dpi) in `posters/print/16x20/`; the extra width goes into the panels, not the margins.
 
 ![Posters 01-06](posters/contact-sheet.jpg)
 

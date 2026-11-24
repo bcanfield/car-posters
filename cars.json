@@ -58,7 +58,7 @@
       "maker_line": "CHARGER SRT HELLCAT · 2023",
       "car": "2023 Dodge Charger SRT Hellcat Widebody four-door sedan (LD)",
       "colors": "Plum Crazy Pearl purple paint with black wheels and black trim",
-      "details": "four doors, widebody fender flares, power-bulge hood with a scoop, wide black grille, a single continuous red LED 'racetrack' tail light loop running across the whole rear, small rear lip spoiler, dual exhaust tips",
+      "details": "four doors, widebody fender flares, power-bulge hood with a scoop, wide black grille, a single continuous red LED 'racetrack' tail light loop running across the whole rear with a plain dark band inside it and no lettering in the tail light, identical five-lug black wheels of the same design front and rear, small rear lip spoiler, dual exhaust tips",
       "specs": {
         "engine": "6.2L SUPERCHARGED V8",
         "power": "717 HP",
@@ -69,10 +69,10 @@
       "bar_color": "#5E2D86",
       "refs_dir": "work/03-charger/refs",
       "art": {
-        "hero": "work/03-charger/candidates/03-charger-a02.png",
+        "hero": "work/03-charger/candidates/v2/03-charger-a01.png",
         "hero_from_poster": true,
         "front": "work/03-charger/views/03-charger-front-a01.png",
-        "rear": "work/03-charger/views/03-charger-rear-a01.png"
+        "rear": "work/03-charger/views/03-charger-rear-a02.png"
       },
       "logo_final": "logos/hellcat.png"
     },
@@ -91,7 +91,7 @@
         "top_speed": "205 MPH"
       },
       "top_speed": 205,
-      "bar_color": "#E3E5E8",
+      "bar_color": "#8F969D",
       "refs_dir": "work/04-911turbos/refs",
       "art": {
         "hero": "work/04-911turbos/candidates/04-911turbos-a01.png",
@@ -99,8 +99,7 @@
         "front": "work/04-911turbos/views/04-911turbos-front-a01.png",
         "rear": "work/04-911turbos/views/04-911turbos-rear-a01.png"
       },
-      "logo_final": "logos/porsche.png",
-      "bar_fill_outline": true
+      "logo_final": "logos/porsche.png"
     },
     {
       "slug": "05-murcielago",
@@ -117,7 +116,7 @@
         "top_speed": "211 MPH"
       },
       "top_speed": 211,
-      "bar_color": "#6DB33F",
+      "bar_color": "#8DC63F",
       "refs_dir": "work/05-murcielago/refs",
       "art": {
         "hero": "work/05-murcielago/candidates/05-murcielago-a01.png",

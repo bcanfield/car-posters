@@ -1,0 +1,506 @@
+{
+ "01-z06": {
+  "hero": {
+   "x0": 364,
+   "x1": 3477,
+   "top": 830,
+   "baseline": 1672,
+   "width": 3114,
+   "cx": 1920.5
+  },
+  "front": {
+   "x0": 324,
+   "x1": 1680,
+   "top": 2251,
+   "baseline": 3015,
+   "width": 1357,
+   "cx": 1002.0
+  },
+  "rear": {
+   "x0": 2159,
+   "x1": 3515,
+   "top": 2200,
+   "baseline": 3016,
+   "width": 1357,
+   "cx": 2837.0
+  },
+  "bar": {
+   "measured_mph": 189.0,
+   "printed_mph": 189,
+   "diff": 0.0
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.4802,
+    "offset": [
+     -1136,
+     -526
+    ],
+    "passes": 2,
+    "residual_px": [
+     1,
+     0.5,
+     1
+    ]
+   },
+   "front": {
+    "scale": 1.1253,
+    "offset": [
+     -1075,
+     -543
+    ],
+    "passes": 2,
+    "residual_px": [
+     0,
+     -0.5,
+     -1
+    ]
+   },
+   "rear": {
+    "scale": 1.1024,
+    "offset": [
+     -1030,
+     -568
+    ],
+    "passes": 2,
+    "residual_px": [
+     0,
+     -0.5,
+     0
+    ]
+   }
+  }
+ },
+ "02-darkhorse": {
+  "hero": {
+   "x0": 363,
+   "x1": 3476,
+   "top": 756,
+   "baseline": 1670,
+   "width": 3114,
+   "cx": 1919.5
+  },
+  "front": {
+   "x0": 324,
+   "x1": 1681,
+   "top": 2068,
+   "baseline": 3015,
+   "width": 1358,
+   "cx": 1002.5
+  },
+  "rear": {
+   "x0": 2160,
+   "x1": 3516,
+   "top": 2035,
+   "baseline": 3015,
+   "width": 1357,
+   "cx": 2838.0
+  },
+  "bar": {
+   "measured_mph": 162.9,
+   "printed_mph": 163,
+   "diff": -0.1
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.5532,
+    "offset": [
+     -1243,
+     -592
+    ],
+    "passes": 2,
+    "residual_px": [
+     1,
+     -0.5,
+     -1
+    ]
+   },
+   "front": {
+    "scale": 1.3111,
+    "offset": [
+     -1386,
+     -873
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     0.0,
+     -1
+    ]
+   },
+   "rear": {
+    "scale": 1.2098,
+    "offset": [
+     -1210,
+     -682
+    ],
+    "passes": 2,
+    "residual_px": [
+     0,
+     0.5,
+     -1
+    ]
+   }
+  }
+ },
+ "03-charger": {
+  "hero": {
+   "x0": 364,
+   "x1": 3476,
+   "top": 728,
+   "baseline": 1671,
+   "width": 3113,
+   "cx": 1920.0
+  },
+  "front": {
+   "x0": 324,
+   "x1": 1681,
+   "top": 2117,
+   "baseline": 3016,
+   "width": 1358,
+   "cx": 1002.5
+  },
+  "rear": {
+   "x0": 2158,
+   "x1": 3515,
+   "top": 2026,
+   "baseline": 3016,
+   "width": 1358,
+   "cx": 2836.5
+  },
+  "bar": {
+   "measured_mph": 195.9,
+   "printed_mph": 196,
+   "diff": -0.1
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.4622,
+    "offset": [
+     -1043,
+     -564
+    ],
+    "passes": 1,
+    "residual_px": [
+     0,
+     0.0,
+     0
+    ]
+   },
+   "front": {
+    "scale": 1.0944,
+    "offset": [
+     -1003,
+     -527
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     0.0,
+     0
+    ]
+   },
+   "rear": {
+    "scale": 1.2875,
+    "offset": [
+     -1346,
+     -767
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     -1.0,
+     0
+    ]
+   }
+  }
+ },
+ "04-911turbos": {
+  "hero": {
+   "x0": 364,
+   "x1": 3477,
+   "top": 770,
+   "baseline": 1671,
+   "width": 3114,
+   "cx": 1920.5
+  },
+  "front": {
+   "x0": 325,
+   "x1": 1681,
+   "top": 2674,
+   "baseline": 3016,
+   "width": 1357,
+   "cx": 1003.0
+  },
+  "rear": {
+   "x0": 2158,
+   "x1": 3515,
+   "top": 2710,
+   "baseline": 3017,
+   "width": 1358,
+   "cx": 2836.5
+  },
+  "bar": {
+   "measured_mph": 204.9,
+   "printed_mph": 205,
+   "diff": -0.1
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.5031,
+    "offset": [
+     -1117,
+     -600
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     0.5,
+     0
+    ]
+   },
+   "front": {
+    "scale": 1.2249,
+    "offset": [
+     -1230,
+     -726
+    ],
+    "passes": 2,
+    "residual_px": [
+     0,
+     0.5,
+     0
+    ]
+   },
+   "rear": {
+    "scale": 1.2225,
+    "offset": [
+     -1228,
+     -712
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     -1.0,
+     1
+    ]
+   }
+  }
+ },
+ "05-murcielago": {
+  "hero": {
+   "x0": 364,
+   "x1": 3477,
+   "top": 867,
+   "baseline": 1670,
+   "width": 3114,
+   "cx": 1920.5
+  },
+  "front": {
+   "x0": 325,
+   "x1": 1680,
+   "top": 2191,
+   "baseline": 3015,
+   "width": 1356,
+   "cx": 1002.5
+  },
+  "rear": {
+   "x0": 2160,
+   "x1": 3516,
+   "top": 2298,
+   "baseline": 3016,
+   "width": 1357,
+   "cx": 2838.0
+  },
+  "bar": {
+   "measured_mph": 210.9,
+   "printed_mph": 211,
+   "diff": -0.1
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.5989,
+    "offset": [
+     -1260,
+     -547
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     0.5,
+     -1
+    ]
+   },
+   "front": {
+    "scale": 1.1638,
+    "offset": [
+     -1132,
+     -637
+    ],
+    "passes": 1,
+    "residual_px": [
+     -1,
+     0.0,
+     -1
+    ]
+   },
+   "rear": {
+    "scale": 1.1637,
+    "offset": [
+     -1127,
+     -555
+    ],
+    "passes": 2,
+    "residual_px": [
+     0,
+     0.5,
+     0
+    ]
+   }
+  }
+ },
+ "06-296gtb": {
+  "hero": {
+   "x0": 364,
+   "x1": 3476,
+   "top": 828,
+   "baseline": 1671,
+   "width": 3113,
+   "cx": 1920.0
+  },
+  "front": {
+   "x0": 324,
+   "x1": 1681,
+   "top": 2222,
+   "baseline": 3016,
+   "width": 1358,
+   "cx": 1002.5
+  },
+  "rear": {
+   "x0": 2159,
+   "x1": 3515,
+   "top": 2268,
+   "baseline": 3016,
+   "width": 1357,
+   "cx": 2837.0
+  },
+  "bar": {
+   "measured_mph": 204.9,
+   "printed_mph": 205,
+   "diff": -0.1
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.5363,
+    "offset": [
+     -1191,
+     -541
+    ],
+    "passes": 2,
+    "residual_px": [
+     0,
+     0.0,
+     0
+    ]
+   },
+   "front": {
+    "scale": 1.097,
+    "offset": [
+     -1003,
+     -522
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     0.0,
+     0
+    ]
+   },
+   "rear": {
+    "scale": 1.1658,
+    "offset": [
+     -1130,
+     -547
+    ],
+    "passes": 1,
+    "residual_px": [
+     0,
+     -0.5,
+     0
+    ]
+   }
+  }
+ },
+ "07-f40": {
+  "hero": {
+   "x0": 363,
+   "x1": 3476,
+   "top": 849,
+   "baseline": 1671,
+   "width": 3114,
+   "cx": 1919.5
+  },
+  "front": {
+   "x0": 325,
+   "x1": 1682,
+   "top": 2182,
+   "baseline": 3015,
+   "width": 1358,
+   "cx": 1003.5
+  },
+  "rear": {
+   "x0": 2159,
+   "x1": 3516,
+   "top": 2260,
+   "baseline": 3017,
+   "width": 1358,
+   "cx": 2837.5
+  },
+  "bar": {
+   "measured_mph": 201.0,
+   "printed_mph": 201,
+   "diff": 0.0
+  },
+  "placement": {
+   "hero": {
+    "scale": 1.2737,
+    "offset": [
+     -1533,
+     -734
+    ],
+    "passes": 1,
+    "residual_px": [
+     1,
+     -0.5,
+     0
+    ]
+   },
+   "front": {
+    "scale": 1.2091,
+    "offset": [
+     -1210,
+     -672
+    ],
+    "passes": 2,
+    "residual_px": [
+     1,
+     1.0,
+     -1
+    ]
+   },
+   "rear": {
+    "scale": 1.2341,
+    "offset": [
+     -1266,
+     -703
+    ],
+    "passes": 2,
+    "residual_px": [
+     1,
+     0.0,
+     1
+    ]
+   }
+  }
+ }
+}
